@@ -42,5 +42,4 @@ Want to hear directly from me? Check out my brief introduction video:
 
 ## 📫 Let's Connect!
 * **Email:** [vaibhavbhatt15062005@gmail.com](mailto:vaibhavbhatt15062005@gmail.com)
-* ---
 ⭐️ *From building robust Spring Boot APIs to exploring federated learning—feel free to explore my repositories below!*
